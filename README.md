@@ -1,3 +1,9 @@
+
+
+
+![ecommerce](https://github.com/welingtonjunior/e-commerce/assets/102276567/aa3d3709-9cb0-4657-84ae-8f3ea7394148)
+
+
 # E-commerce
 
 Este projeto é um e-commerce de roupas, desenvolvido em jQuery. Ele foi criado para fornecer uma plataforma on-line para compras de roupas de alta qualidade e moda para homens e mulheres.
