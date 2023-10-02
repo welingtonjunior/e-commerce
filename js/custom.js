@@ -1,3 +1,29 @@
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import 'owl.carousel/dist/assets/owl.carousel.min.css';
+import 'owl.carousel/dist/assets/owl.theme.default.min.css';
+
+
+import 'jquery-ui-dist/jquery-ui.min.css';
+
+
+import $ from 'jquery';
+
+
+import 'bootstrap/dist/js/bootstrap.min.js';
+
+
+import 'owl.carousel';
+
+
+import 'jquery-ui-dist/jquery-ui.min.js';
+
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
+import '../css/style.css';
+
 // instancia jquery e evita conflitos
 // jQuery( function($){
 $(document).ready(function(){
